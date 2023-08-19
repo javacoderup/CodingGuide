@@ -1,15 +1,13 @@
 ---
 icon: pen-to-square
-date: 2022-01-10
+date: 2023-08-19
 category:
-  - 火龙果
-  - 水果
+  - 数据库
 tag:
-  - 红
-  - 大
+  - mysql
 ---
 
-# 火龙果
+# mysql基础知识总结
 
 ## 标题 2
 

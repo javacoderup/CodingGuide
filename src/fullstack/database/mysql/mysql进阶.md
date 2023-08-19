@@ -1,17 +1,13 @@
 ---
-cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2022-01-12
+date: 2023-08-19
 category:
-  - 蔬菜
+  - 数据库
 tag:
-  - 红
-  - 圆
-star: true
-sticky: true
+  - mysql
 ---
 
-# 番茄
+# mysql进阶知识总结
 
 ## 标题 2
 

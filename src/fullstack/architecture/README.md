@@ -1,9 +1,9 @@
 ---
-title: 面试指南
+title: 架构
 index: false
 icon: laptop-code
 category:
-  - 使用指南
+  - 架构
 ---
 
 ## 目录

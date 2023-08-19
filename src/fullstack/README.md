@@ -1,9 +1,9 @@
 ---
-title: 面试指南
+title: Java全栈知识学习指南
 index: false
 icon: laptop-code
 category:
-  - 使用指南
+  - 学习指南
 ---
 
 ## 目录

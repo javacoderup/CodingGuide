@@ -2,12 +2,12 @@
 icon: pen-to-square
 date: 2023-08-19
 category:
-  - Java基础
+  - 中间件
 tag:
-  - Collection
+  - kafka
 ---
 
-# Collection集合知识总结
+# Kafka知识总结
 
 ## 标题 2
 

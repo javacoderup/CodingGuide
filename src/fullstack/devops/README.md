@@ -1,9 +1,9 @@
 ---
-title: 面试指南
+title: Devops
 index: false
 icon: laptop-code
 category:
-  - 使用指南
+  - devops
 ---
 
 ## 目录

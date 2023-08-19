@@ -1,15 +1,13 @@
 ---
 icon: pen-to-square
-date: 2022-01-01
+date: 2023-08-19
 category:
-  - 苹果
+  - Java基础
 tag:
-  - 红
-  - 大
-  - 圆
+  - Map
 ---
 
-# 苹果 1
+# Map集合知识总结
 
 ## 标题 2
 

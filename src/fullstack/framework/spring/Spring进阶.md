@@ -2,12 +2,12 @@
 icon: pen-to-square
 date: 2023-08-19
 category:
-  - Java基础
+  - 框架
 tag:
-  - Collection
+    - Spring进阶
 ---
 
-# Collection集合知识总结
+# Spring进阶知识总结
 
 ## 标题 2
 
