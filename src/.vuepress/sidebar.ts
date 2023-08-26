@@ -7,7 +7,15 @@ export default sidebar({
             icon: "book",
             prefix: "base/",
             collapsible: true,
-            children: ["OOP编程", "Java基础知识"],
+            children: [
+                "OOP编程",
+                "Java基础知识",
+                "Java泛型机制详解",
+                "Java注解机制详解",
+                "Java异常机制详解",
+                "Java反射机制详解",
+                "Java SPI机制详解"
+            ],
         },
         {
             text: "Java集合知识总结",
