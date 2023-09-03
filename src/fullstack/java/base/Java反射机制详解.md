@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+
 date: 2023-8-21
 category:
   - Java

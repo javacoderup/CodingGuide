@@ -1,7 +1,7 @@
 ---
 title: Java
 index: false
-icon: laptop-code
+icon: java
 category:
   - 使用指南
 ---

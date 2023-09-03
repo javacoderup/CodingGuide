@@ -10,16 +10,16 @@ export default navbar([
     "/fullstack/devops/",
     {
         text: "常用工具",
-        icon: "laptop-code",
+        icon: "tool",
         link: "/fullstack/utils/常用工具",
     },
     {
         text: "关于作者",
-        icon: "laptop-code",
+        icon: "about",
         prefix: "/fullstack/about/",
         children: [
-            {text: "关于作者", icon: "book", link: "关于作者"},
-            {text: "更新历史", icon: "book", link: "更新历史"},
+            {text: "关于作者", icon: "zuozhe", link: "关于作者"},
+            {text: "更新历史", icon: "history", link: "更新历史"},
         ],
     }
 ]);

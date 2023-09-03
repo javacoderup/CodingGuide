@@ -1,7 +1,7 @@
 ---
 title: 框架
 index: false
-icon: laptop-code
+icon: framework
 category:
   - 使用指南
 ---

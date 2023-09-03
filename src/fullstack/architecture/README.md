@@ -1,7 +1,7 @@
 ---
 title: 架构
 index: false
-icon: laptop-code
+icon: design
 category:
   - 架构
 ---

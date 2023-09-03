@@ -1,7 +1,7 @@
 ---
 title: 中间件
 index: false
-icon: laptop-code
+icon: distributed-network
 category:
   - 使用指南
 ---

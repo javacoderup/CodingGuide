@@ -1,7 +1,7 @@
 ---
 title: Devops
 index: false
-icon: laptop-code
+icon: linux
 category:
   - devops
 ---

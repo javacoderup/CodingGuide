@@ -1,12 +1,14 @@
 ---
+
 date: 2023-08-19
 category:
-  - 常用工具
+  - Java基础
 tag:
-  - utils
+  - Map
+  - WeakHashMap
 ---
 
-# 常用工具
+# WeakHashMap源码详解
 
 ## 标题 2
 

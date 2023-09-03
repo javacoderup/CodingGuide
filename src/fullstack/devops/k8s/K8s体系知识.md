@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+
 date: 2023-08-19
 category:
   - K8s体系知识
